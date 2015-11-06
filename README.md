@@ -1,7 +1,7 @@
-# NYCDA Lesson 3 - CSS Layouts and GitHub
+# NYCDA WD Lesson 3: <i>CSS Layouts and GitHub</i>
 A project that I created during my New York Code + Design Academy Web Dev 100 class in Philly after Week 2 Lecture 1. This project was to create a static newspaper website.
 
-Assignment:<br>
+### Assignment:<br>
 Create a fake website for a newspaper, "The New York Code + Design Academy Times"
 
 There should be two pages:
